@@ -1,0 +1,11 @@
+Payroll Details:
+ID: XR517 | Name: LAnderson | Gross Pay: 464.00 | Tax: 0.00 | Net Pay: 464.00
+ID: LF204 | Name: SBennett | Gross Pay: 2314.50 | Tax: 253.40 | Net Pay: 2061.10
+ID: BW839 | Name: NCarter | Gross Pay: 964.25 | Tax: 0.00 | Net Pay: 964.25
+ID: QV726 | Name: ODavis | Gross Pay: 3872.00 | Tax: 564.90 | Net Pay: 3307.10
+ID: DM452 | Name: EFoster | Gross Pay: 1620.00 | Tax: 114.50 | Net Pay: 1505.50
+ID: HT391 | Name: MHarrison | Gross Pay: 2363.50 | Tax: 263.20 | Net Pay: 2100.30
+ID: KC148 | Name: LParker | Gross Pay: 3088.00 | Tax: 408.10 | Net Pay: 2679.90
+ID: NZ670 | Name: AThompson | Gross Pay: 1883.00 | Tax: 167.10 | Net Pay: 1715.90
+ID: PG583 | Name: MWilson | Gross Pay: 2276.80 | Tax: 245.86 | Net Pay: 2030.94
+ID: XJ936 | Name: JEdwards | Gross Pay: 12.00 | Tax: 0.00 | Net Pay: 12.00
